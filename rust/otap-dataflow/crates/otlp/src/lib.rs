@@ -2,3 +2,4 @@
 
 //! Implementation of the OTLP nodes (receiver, exporter, processor).
 mod batch_processor;
+mod redaction_processor;
